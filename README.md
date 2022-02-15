@@ -1,2 +1,2 @@
 # Denver
-THis is the denver file
+Denver is a great city, but cold
